@@ -1,0 +1,7 @@
+docker pull hello-world
+docker ps
+docker run hello-world
+docker ps - a
+docker stop <container_id>
+docker ps -a 
+docker rm <container_id>
